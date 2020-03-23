@@ -1,0 +1,8 @@
+github.com/FRahimov84/Mux v0.0.0-20200318211244-7bf02a4f31d9 h1:aDAkPbKz5tsXKN52AR3aY/X9ZGiXVtOAS/JAObS4oKk=
+github.com/FRahimov84/Mux v0.0.0-20200318211244-7bf02a4f31d9/go.mod h1:wc+nFn9moLjgJsbpBduuX+qcXdavwIj1ROWphTJIxbA=
+github.com/FRahimov84/di v0.0.0-20200314131826-a53f9269cf2f h1:/4VOYYzOSDuQBEj9pqJCzVd7q59apgCrQr1xnCb37ZA=
+github.com/FRahimov84/di v0.0.0-20200314131826-a53f9269cf2f/go.mod h1:d3V7LlLtwNVDW3Lt8MBi+nEt6au2yMRbO7Jif4saVoc=
+github.com/FRahimov84/myJwt v0.0.0-20200314132026-fadea3bfd7b8 h1:TtErO0qOwXoDXBN4PGAdwaE6K4B7HKlGcoqxXxffVno=
+github.com/FRahimov84/myJwt v0.0.0-20200314132026-fadea3bfd7b8/go.mod h1:e8JuwWrPKRPqHd/FVuYe8FnV37qqBUP6UDVEusGlL/I=
+github.com/FRahimov84/rest v0.0.0-20200314104428-680712befc0d h1:VVDpZ1t8EHV3SnpiZb59WhKqn3AV/ajxs4lH5z0Tdmc=
+github.com/FRahimov84/rest v0.0.0-20200314104428-680712befc0d/go.mod h1:iepZGsCKDNt+utrFOWmNqTTGwNYB0XIu2EEGmTy6pwg=
